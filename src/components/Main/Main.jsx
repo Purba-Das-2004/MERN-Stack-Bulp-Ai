@@ -48,7 +48,7 @@ const main = () => {
                         </div>
                     </div>
                     <p className="bottom-info">
-                        This website made by Joy using React JS and also Gemini API
+                    This website was developed using React.js and the Gemini API.
                     </p>
                 </div>
             </div>
